@@ -1,2 +1,1 @@
-print("Hola mundo!")
-print("Actualizacion de repositorio")
+print("Creo que ya entiendo")
